@@ -1,0 +1,23 @@
+@import "tailwindcss";
+.bg{
+    background: linear-gradient(rgb(0 0 0 / 66%), rgb(0 0 0 / 63%)),
+     url(https://wallpaperaccess.com/full/1512223.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+  }
+
+  .shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center;
+    align-items: center;
+    height: 300px;
+    overflow: hidden; */
+  }
+  .shimmer-card{
+    margin:20px;
+    width: 200px;
+    height: 400px;
+    background-color:#f0f0f0;
+  }
