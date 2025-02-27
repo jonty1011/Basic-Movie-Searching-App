@@ -7,17 +7,3 @@
     background-repeat: no-repeat;
   }
 
-  .shimmer-container{
-    display: flex;
-    flex-wrap: wrap;
-    /* justify-content: center;
-    align-items: center;
-    height: 300px;
-    overflow: hidden; */
-  }
-  .shimmer-card{
-    margin:20px;
-    width: 200px;
-    height: 400px;
-    background-color:#f0f0f0;
-  }
